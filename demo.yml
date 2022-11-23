@@ -1,0 +1,41 @@
+---
+ Name: "Ismail"
+ Address: "Vijayawada, India"
+ Age: 20
+ Aadhar_number: 023749274857
+ PAN: "PAN97HKJG07S"
+ Driving_licence: "DIV7586677"
+ is_working: true
+ Certifications: "Az-900"
+ Hobbies: 
+  - Cricket
+  - Painting
+  - Teaching
+  - Travelling
+  - Learning 
+ work experience:
+  Company_01:
+   year: 2
+   role: "Junior DevOps Engineer"
+  Company_02:
+   year: 4
+   role: "Sr DevOps Engineer"
+  Company_03:
+   year: 2
+   role: "DevOps Architech"
+  Company_04:
+   year: 5
+   role: "Sr DevOps Architech"
+  Company_05:
+   year: 2
+   role: "Sr DevOps Architech"  
+ Social_media_accounts:
+   - Linkedin
+   - Twitter
+   - Facebook
+   - Gmail
+ Linkedin_id: "ismail7" 
+ Twitter_id: "ismail7"
+ Facebook_id: "ismailsk"
+ Gmail_id: "7ismailsk7@gmail.com"
+...
